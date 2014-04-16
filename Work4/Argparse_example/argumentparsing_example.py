@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
-argumentparsing ¿¹Á¦
-¹®Á¦´Â ÇöÀç if arg.Width...¿¡¼­ 0 or ³ª¸ÓÁö Á¤¼ö°ªÀ¸·Î true false°áÁ¤->"" (NULL, None) »ç¿ë
+argumentparsing ï¿½ï¿½ï¿½ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ if arg.Width...ï¿½ï¿½ï¿½ï¿½ 0 or ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ true falseï¿½ï¿½ï¿½ï¿½->"" (NULL, None) ï¿½ï¿½ï¿½ï¿½
 
 '''
 import argparse
