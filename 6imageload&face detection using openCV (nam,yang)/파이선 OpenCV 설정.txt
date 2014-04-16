@@ -1,0 +1,10 @@
+Numpy 1.7.0
+http://sourceforge.net/projects/numpy/files/
+
+
+SciPy 0.12.0
+http://sourceforge.net/projects/scipy/files/scipy/
+
+
+OpenCv 2.4.x
+http://opencv.org/downloads.html
