@@ -1,6 +1,6 @@
 -*- coding: utf-8 -*-
 '''
-���� ���� �Է¹޾� �����Ͽ� ����
+정수 값을 입력받아 제곱하여 출력
 Positional argument
 '''
 import argparse
