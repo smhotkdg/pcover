@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+-*- coding: utf-8 -*-
 '''
 argumentparsing ����
 ������ ���� if arg.Width...���� 0 or ������ ���������� true false����->"" (NULL, None) ����
