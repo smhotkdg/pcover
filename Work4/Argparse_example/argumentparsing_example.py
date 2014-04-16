@@ -1,8 +1,7 @@
--*- coding: utf-8 -*-
+#-*- coding: utf-8 -*-
 '''
-argumentparsing ����
-������ ���� if arg.Width...���� 0 or ������ ���������� true false����->"" (NULL, None) ����
-
+argumentparsing 예제
+문제는 현재 if arg.Width...에서 0 or 나머지 정수값으로 true false결정->"" (NULL, None) 사용
 '''
 import argparse
 
