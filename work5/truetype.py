@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw, ImageFont
 4. 타이틀 및 책 정보
 5. 클래스 또한 함수화 
 '''
-def makingCover(pattern_image, fonttype = 'arial.ttf', string = 'X', color = (231,12,39), width = 450, height = 800):
+def makingCover(pattern_image = 'pattern_image.jpg', fonttype = 'arial.ttf', string = 'X', color = (231,12,39), width = 450, height = 800):
     pattern_im = Image.open(str(pattern_image))
     #pattern_im.show()
     #w,h = pattern_im.size
