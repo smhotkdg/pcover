@@ -1,0 +1,19 @@
+Name: test1
+font: $ddd
+height: 10
+width: 20
+---
+Name: test2
+font: '%dafd'
+height: 15
+width: 26
+---
+Name: test3
+font: 123F
+height: 15
+width: 25
+---
+Name: test4
+font: adf#
+height: 12
+width: 10
